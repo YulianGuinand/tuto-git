@@ -52,6 +52,10 @@ section {
   gap: 2rem;
 }
 
+h1 {
+  color: red;
+}
+
 .description {
   display: flex;
   flex-direction: column;
